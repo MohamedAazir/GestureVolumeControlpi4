@@ -47,5 +47,6 @@ These are some of the resources I utilized to get the required output.
 - Setting Up the Raspberry Pi4 Buster OS --> https://core-electronics.com.au/guides/flash-buster-os-pi/
 - OpenCV Contrib package info --> https://www.piwheels.org/project/opencv-contrib-python/
 - Installing OpenCV --> https://fernandezvictor.medium.com/installing-opencv-on-raspberry-pi-3fe36da91e86#338b
+- Mediapipe for RaspberryPi4 info --> https://pypi.org/project/mediapipe-rpi4/
 - Hand Recognition and Finger Identification with Raspberry Pi4 --> https://core-electronics.com.au/guides/hand-identification-raspberry-pi/
 - Implementing Gesture Volume Control in VS Code --> https://www.youtube.com/playlist?list=PLMoSUbG1Q_r8jFS04rot-3NzidnV54Z2q
