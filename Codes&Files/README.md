@@ -18,7 +18,7 @@ This module provides the core hand detection and tracking functionality:
 - Can visualize hand landmarks and connections on the video feed
 - Includes a testing function that can be run directly
 
-<img src="Codes&Files/img/hand recognition.png" alt="Hand Recognition" width="50%" height="auto">
+![hand recognition](https://github.com/user-attachments/assets/8ff7763d-bd92-4bb5-8773-3dc19c640502)
 
 
 ### `volume control advanced.py`
@@ -34,7 +34,7 @@ The main script that implements the volume control functionality:
 - Shows hand landmarks and connections for visual feedback
 - Includes FPS counter for performance monitoring
 
-<img src="Codes&Files/img/volume control.png" alt="Hand Recognition" width="50%" height="auto">
+![volume control](https://github.com/user-attachments/assets/a1487763-7bd7-47b7-aeee-61d50e713f15)
 
 ### `music.py`
 
