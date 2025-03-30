@@ -32,6 +32,8 @@ This project demonstrates a gesture-based volume control system using the Raspbe
 - **VLC Media Player**: Media player for playing audio and video files.
 - **Python**: Programming language used for integrating all components and implementing the gesture control logic.
 
+For more Tech details check [Codes&Files](Codes&Files/)
+
 ## Applications
 
 - **Hands-free control**: Useful for accessibility and people with limited mobility.
