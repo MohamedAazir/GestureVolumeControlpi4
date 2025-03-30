@@ -37,3 +37,4 @@ This project demonstrates a gesture-based volume control system using the Raspbe
 - **Hands-free control**: Useful for accessibility and people with limited mobility.
 - **Smart home integration**: Can be expanded to control other devices with gestures.
 - **Interactive media control**: Offers a novel and intuitive way to control media volume without the need for physical interaction.
+<video src="video trial.mkv" controls width="600"></video>
